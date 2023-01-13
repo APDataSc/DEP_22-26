@@ -1,2 +1,4 @@
-# DEP_22-26
-Repositorio Tesis - Doctorado de Estudios de Población - COLMEX
+## Repositorio Tesis - Doctorado de Estudios de Población - COLMEX
+
+# Andrés Peña M.
+# Dr. Victor Manuel García Guerrero
