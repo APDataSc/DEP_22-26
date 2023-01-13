@@ -1,4 +1,4 @@
-# Repositorio Tesis - Doctorado de Estudios de Población 
+# Repositorio Tesis - Doctorado en Estudios de Población 
 ## El Colegio de México A.C.
 
 ### Andrés Peña M.
