@@ -1,5 +1,5 @@
 # Repositorio Tesis - Doctorado de Estudios de Población 
-## COLMEX
+## El Colegio de México A.C.
 
 ### Andrés Peña M.
 ### Dr. Victor Manuel García Guerrero
